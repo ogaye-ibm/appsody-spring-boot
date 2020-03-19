@@ -21,6 +21,7 @@ public class MainTests {
 
     @Autowired
     private TestRestTemplate restTemplate;
+    //test
 
     @Test
     public void testHealthEndpoint() {
