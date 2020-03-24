@@ -8,7 +8,6 @@
     <artifactId>spring-boot2-stack</artifactId>
     <version>[0.3, 0.4)</version>
     <relativePath/>
-    
   </parent>
 
   <groupId>dev.appsody</groupId>
