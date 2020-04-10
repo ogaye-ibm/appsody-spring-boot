@@ -16,10 +16,12 @@
   <packaging>jar</packaging>
   
 
+
   <!-- versions will come from the parent pom (and included bom):
     mvn dependency:tree
     mvn dependency:display-ancestors
     mvn help:effective-pom | grep '\.version>'
+
     -->
 
   <dependencies>
