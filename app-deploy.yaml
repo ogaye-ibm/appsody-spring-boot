@@ -62,7 +62,7 @@ metadata:
   name: spring-boot-codewind-template
 spec:
   applicationImage: dev.local/spring-boot-codewind-template
-  createKnativeService: false
+  createKnativeService: true
   expose: true
   livenessProbe:
     failureThreshold: 12
